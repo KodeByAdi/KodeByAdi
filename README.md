@@ -1,75 +1,33 @@
-<br clear="both">
+# Hi there, I'm Adi! 👋
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KodeByAdi.KodeByAdi&"  />
+### 👨‍💻 Developer & Creator of [KodeByAdi](https://kodebyadi.vercel.app)
 
-###
+I am a passionate developer focused on building clean, efficient, and user-centric web applications. You can see my latest work and projects on my personal portfolio.
 
-<div align="left">
-  <a href="https://www.facebook.com/KodeByAdi/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  </a>
-  <a href="https://discord.com/users/753088537766658109" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/driyanxiii/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
+- 🔭 I’m currently working on **[Project Name]**
+- 🌱 I’m currently learning **Next.js / TypeScript**
+- 🌍 Check out my portfolio: **[kodebyadi.vercel.app](https://kodebyadi.vercel.app)**
+- 📫 Contact me: **[Your Email]**
 
-###
+---
 
-<h1 align="center">👋 Hello, I'm Adi! 👋</h1>
+### 💻 Tech Stack
 
-###
+| Domain | Technologies |
+| :--- | :--- |
+| **Frontend** | React, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS |
+| **Backend** | Node.js, Express, Python |
+| **Tools & Hosting** | Git, GitHub, Vercel, VS Code |
 
-<br clear="both">
+---
 
-<h4 align="center">Tech Enthusiast | Cloud & Dev Advocate | Student Leader</h4>
+### 📊 GitHub Stats
 
-###
+![Adi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=midnight-owl)
 
-<p align="left">🚀 Passionate about technology, governance, and social inclusion  <br>🎯 Always learning, building, and advocating for meaningful change</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=midnight-owl)
 
-###
+### 🤝 Connect with Me
 
-<h3 align="center">Tech Stack</h3>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-</div>
-
-###
-
-<h3 align="center">GitHub Stats</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KodeByAdi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/KodeByAdi/KodeByAdi/output/snake.svg" alt="Snake animation" />
-
-###
-
-<h3 align="left">💡 Code with purpose. Lead with impact.</h3>
-
-###
+[![Portfolio](https://img.shields.io/badge/Portfolio-KodeByAdi-000?style=for-the-badge&logo=vercel&logoColor=white)](https://kodebyadi.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
