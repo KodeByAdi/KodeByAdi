@@ -11,21 +11,18 @@ I am a passionate developer focused on building clean, efficient, and user-centr
 
 ---
 
-### 💻 Tech Stack
+### 💻 Tech Stack & Stats
 
-| Domain | Technologies |
-| :--- | :--- |
-| **Frontend** | React, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS |
-| **Backend** | Node.js, Express, Python |
-| **Tools & Hosting** | Git, GitHub, Vercel, VS Code |
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
----
+<br>
 
-### 📊 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KodeByAdi&theme=midnight-owl)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KodeByAdi&layout=compact&theme=midnight-owl)
+![GitHub Commit Activity](https://img.shields.io/github/commit-activity/m/KodeByAdi/KodeByAdi?style=for-the-badge&color=2ea44f)
+![Repo Size](https://img.shields.io/github/repo-size/KodeByAdi/KodeByAdi?style=for-the-badge&color=0969da)
 
 ### 🤝 Connect with Me
 
