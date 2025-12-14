@@ -62,7 +62,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KodeByAdi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=KodeByAdi&theme=onestar&column=7&row=3&margin-w=10&margin-h=10&no-bg=true&no-frame=false" height="150" alt="trophy graph"  />
 </div>
 
 ###
