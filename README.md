@@ -23,11 +23,11 @@ I am a passionate developer focused on building clean, efficient, and user-centr
 
 ### 📊 GitHub Stats
 
-![Adi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=midnight-owl)
+![Adi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KodeByAdi&show_icons=true&theme=midnight-owl)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=midnight-owl)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KodeByAdi&layout=compact&theme=midnight-owl)
 
 ### 🤝 Connect with Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-KodeByAdi-000?style=for-the-badge&logo=vercel&logoColor=white)](https://kodebyadi.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/driyanxiii/)
