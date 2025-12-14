@@ -5,7 +5,7 @@
 I am a passionate developer focused on building clean, efficient, and user-centric web applications. You can see my latest work and projects on my personal portfolio.
 
 - 🔭 I’m currently working on **personal projects**
-- 🌱 I’m currently learning **Next.js / TypeScript**
+- 🌱 I’m currently learning **Artificial intelligence / Next.js / TypeScript**
 - 🌍 Check out my portfolio: **[kodebyadi.vercel.app](https://kodebyadi.vercel.app)**
 - 📫 Contact me: **dimaano.adrian.perez@gmail.com**
 
