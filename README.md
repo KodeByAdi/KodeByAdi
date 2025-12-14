@@ -7,7 +7,7 @@ I am a passionate developer focused on building clean, efficient, and user-centr
 - 🔭 I’m currently working on **[Project Name]**
 - 🌱 I’m currently learning **Next.js / TypeScript**
 - 🌍 Check out my portfolio: **[kodebyadi.vercel.app](https://kodebyadi.vercel.app)**
-- 📫 Contact me: **[Your Email]**
+- 📫 Contact me: **dimaano.adrian.perez@gmail.com**
 
 ---
 
@@ -22,8 +22,7 @@ I am a passionate developer focused on building clean, efficient, and user-centr
 ---
 
 ### 📊 GitHub Stats
-
-![Adi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KodeByAdi&show_icons=true&theme=midnight-owl)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KodeByAdi&theme=midnight-owl)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KodeByAdi&layout=compact&theme=midnight-owl)
 
