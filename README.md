@@ -1,12 +1,12 @@
 # Hi there, I'm Adi! 👋
 
-### 👨‍💻 Developer & Creator of [KodeByAdi](https://kodebyadi.vercel.app)
+### 👨‍💻 Developer & Creator of [KodeByAdi](https://kodebyadi.com)
 
 I am a passionate developer focused on building clean, efficient, and user-centric web applications. You can see my latest work and projects on my personal portfolio.
 
 - 🔭 I’m currently working on **personal projects**
 - 🌱 I’m currently learning **Artificial intelligence / Next.js / TypeScript**
-- 🌍 Check out my portfolio: **[kodebyadi.vercel.app](https://kodebyadi.vercel.app)**
+- 🌍 Check out my portfolio: **[kodebyadi.vercel.app](https://kodebyadi.com)**
 - 📫 Contact me: **dimaano.adrian.perez@gmail.com**
 
 ---
