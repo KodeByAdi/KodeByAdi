@@ -6,7 +6,7 @@ I am a passionate developer focused on building clean, efficient, and user-centr
 
 - 🔭 I’m currently working on **personal projects**
 - 🌱 I’m currently learning **Artificial intelligence / Next.js / TypeScript**
-- 🌍 Check out my portfolio: **[kodebyadi.vercel.app](https://kodebyadi.com)**
+- 🌍 Check out my portfolio: **[kodebyadi.com](https://kodebyadi.com)**
 - 📫 Contact me: **dimaano.adrian.perez@gmail.com**
 
 ---
@@ -27,5 +27,5 @@ I am a passionate developer focused on building clean, efficient, and user-centr
 
 ### 🤝 Connect with Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-KodeByAdi-000?style=for-the-badge&logo=vercel&logoColor=white)](https://kodebyadi.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-KodeByAdi-000?style=for-the-badge&logo=vercel&logoColor=white)](https://kodebyadi.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/driyanxiii/)
