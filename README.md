@@ -51,5 +51,5 @@ I am a passionate developer focused on building clean, efficient, and user-centr
 ### 🤝 Connect with Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-KodeByAdi-000?logo=vercel&logoColor=white)](https://kodebyadi.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@drnpdmn)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/drnpdmn)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/driyanxiii/)
