@@ -1,6 +1,6 @@
 # Hi there, I'm Adi! 👋
 
-### 👨‍💻 Developer | Currently Working on Capstone Project
+### 👨‍💻 Student Developer | Currently Working on Capstone Project
 
 I am a passionate developer focused on building clean, efficient, and user-centric web applications. You can see my latest work and projects on my personal portfolio.
 
